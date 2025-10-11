@@ -40,19 +40,19 @@ You might also need chromadb if not installed automatically:
 3. Upload a PDF file and type your query.
 4. The chatbot will return the answer and the source text.
 
-## file_structure
+## File structure
 
   - rag_chatbot.py: "Main Python script for the chatbot."
   - README.md: "Project documentation."
   - .gitignore: "Git ignore rules."
   - LICENSE: "Project license file."
 
-## license
+## License
 
   name: "MIT License"
   details: "See the LICENSE file for details."
 
-acknowledgements:
+## acknowledgements:
   - "IBM Watsonx"
   - "LangChain"
   - "Gradio"

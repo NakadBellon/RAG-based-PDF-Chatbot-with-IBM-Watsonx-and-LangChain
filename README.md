@@ -2,7 +2,6 @@
 
 This project is a **Retrieval-Augmented Generation (RAG) chatbot** that allows users to upload a PDF document and ask questions. The chatbot leverages **IBM Watsonx AI models** for language understanding and **LangChain** for document processing and vector retrieval.
 
----
 
 ## Features
 
@@ -17,7 +16,6 @@ This project is a **Retrieval-Augmented Generation (RAG) chatbot** that allows u
 - Gradio interface for an easy-to-use web app.
 - Returns both answers and source documents.
 
----
 
 ## Installation
 

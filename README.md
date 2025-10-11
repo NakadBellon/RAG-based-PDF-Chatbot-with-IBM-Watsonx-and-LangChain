@@ -52,7 +52,7 @@ You might also need chromadb if not installed automatically:
   name: "MIT License"
   details: "See the LICENSE file for details."
 
-## acknowledgements:
+## Acknowledgements:
   - "IBM Watsonx"
   - "LangChain"
   - "Gradio"
